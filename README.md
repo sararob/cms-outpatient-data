@@ -1,0 +1,2 @@
+<h2>CMS Outpatient Data</h2>
+I'm using the newly released CMS data on outpatient charges (http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Outpatient.html) to create data visualizations. Let me know if you have suggestions!

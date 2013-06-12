@@ -11,6 +11,7 @@
     <file path="/procedure.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371060355454" ignored="false" />
     <file path="/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371062863910" ignored="false" />
     <file path="/home.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371066243793" ignored="false" />
+    <file path="/README.rdoc" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371066780389" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
           <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="35" column="31" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
+                <state line="35" column="24" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -53,7 +54,7 @@
           <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/db/seeds.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="23" column="5" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+                <state line="23" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -89,7 +90,7 @@
           <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/routes.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="30" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
+                <state line="25" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -107,10 +108,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.html.erb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/procedures/home.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.020408163">
+                <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="-0.625">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="261" selection-start="290" selection-end="290" vertical-scroll-proportion="0.02010724">
                   <folding />
                 </state>
               </provider>
@@ -149,6 +159,7 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
         <option value="$PROJECT_DIR$/app/views/procedures/home.html.erb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -616,7 +627,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1490" y="-164" width="1843" height="930" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21912351" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -624,7 +635,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16638842" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16638842" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -701,7 +712,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/db/seeds.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="5" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+        <state line="23" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -715,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
+        <state line="25" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -746,7 +757,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
+        <state line="35" column="24" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -774,7 +785,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/procedures/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.020408163">
+        <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="261" selection-start="290" selection-end="290" vertical-scroll-proportion="0.02010724">
           <folding />
         </state>
       </provider>
