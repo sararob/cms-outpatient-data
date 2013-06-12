@@ -1,0 +1,5 @@
+<h2>CMS Outpatient Data Visualizations</h2>
+<br><br><br><br>
+<h4>How much data is available on each of the 30 most common procedures?</h4>
+<%= pie_chart Procedure.group("apc").count, :height => "750px" %>
+<br><br>
