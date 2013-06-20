@@ -3,3 +3,26 @@
 <h4>How much data is available on each of the 30 most common procedures?</h4>
 <%= pie_chart Procedure.group("apc").count, :height => "750px" %>
 <br><br>
+<h4>Select a procedure to see more info:</h4>
+<ul>
+  <% @procedures.each do |procedure| %>
+  <li class="proc-names">
+    <%= link_to (procedure.apc).slice(7, procedure.apc.length) %>
+
+  <div class="proc-stats">
+    <% @all_procedures = Procedure.where("apc = ?", procedure.apc) %>
+
+    <% avg_charges = 0 %>
+    <% avg_payments = 0 %>
+
+    <% @all_procedures.each do |pr| %>
+        <% avg_charges += (pr.avg_submitted_charges).round %>
+        <% avg_payments += pr.avg_total_payments.to_i %>
+    <% end %>
+
+    National average submitted charges: $<%= number_with_delimiter(avg_charges, delimiter: ',') %><br>
+    National average total payments: $<%= number_with_delimiter(avg_payments, delimiter: ',') %><br>
+  </div>
+  <% end %>
+  </li>
+</ul>

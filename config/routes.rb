@@ -1,6 +1,10 @@
 MedicareOpenData::Application.routes.draw do
   root :to => "procedures#home"
+  resources :procedures
   get "procedures" => "procedures#home"
+  get "debridement1" => "procedures#debridement1"
+
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

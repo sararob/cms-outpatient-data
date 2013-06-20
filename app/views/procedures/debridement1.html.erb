@@ -1,0 +1,20 @@
+<h2><%= (@title.apc).slice(7,@title.apc.length) %></h2>
+
+<a href="#" class="state-link"><h3 class="state">California</h3></a>
+<table class="proc-data">
+    <thead>
+        <th>Hospital</th>
+        <th>Average Submitted Charges</th>
+        <th>Average Total Payments</th>
+    </thead>
+    <% @cali.each do |procedure| %>
+    <tr>
+        <td id="info"><strong><%= procedure.provider_name %></strong>
+        <p><%= procedure.provider_city %></p></td>
+        <td>$<%= procedure.avg_submitted_charges.round %></td>
+        <td>$<%= procedure.avg_total_payments.round %></td>
+    </tr>
+    <% end %>
+</table>
+
+<hr>

@@ -21,4 +21,5 @@ CSV.foreach("lib/data/medicare.csv", :headers => :first_row) do |row|
       avg_submitted_charges: row[9],
       avg_total_payments: row[10]
   )
+  console.log(".")
 end

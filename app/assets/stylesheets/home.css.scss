@@ -7,3 +7,39 @@ h2, h4 {
   font-family: "Helvetica Neue";
   text-align: center;
 }
+
+ul {
+  list-style-type: none;
+  .proc-stats {
+    display: none;
+    margin: 10px 0px 15px 0px;
+  }
+}
+
+//Individual procedure page
+.state {
+  text-align: left;
+  margin-left: 20px;
+}
+
+
+table {
+  margin-left: 20px;
+  th {
+    padding: 10px;
+    color: lightseagreen;
+    font-size: 1.2em;
+  }
+
+  td {
+    padding: 10px;
+    border: 1px solid black;
+    #info {
+      width: 320px;
+    }
+  }
+
+
+}
+
+

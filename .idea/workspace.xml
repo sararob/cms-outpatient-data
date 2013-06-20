@@ -4,15 +4,95 @@
     <list default="true" id="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" name="Default" comment="" />
     <ignored path="medicare_open_data.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/seeds.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1370996584124" ignored="false" />
-    <file path="/procedures_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371061872151" ignored="false" />
-    <file path="/home.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371066286838" ignored="false" />
-    <file path="/routes.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1370997896159" ignored="false" />
-    <file path="/procedure.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371060355454" ignored="false" />
-    <file path="/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371067207692" ignored="false" />
-    <file path="/home.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371066243793" ignored="false" />
+    <file path="/seeds.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371700756693" ignored="false" />
+    <file path="/procedures_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371755199179" ignored="false" />
+    <file path="/home.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371754310530" ignored="false" />
+    <file path="/routes.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371697238363" ignored="false" />
+    <file path="/procedure.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371243010836" ignored="false" />
+    <file path="/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371677815805" ignored="false" />
+    <file path="/home.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371758434905" ignored="false" />
     <file path="/README.rdoc" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371066780389" ignored="false" />
-    <file path="/database.yml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371067465826" ignored="false" />
+    <file path="/database.yml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371663210314" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/controllers/bdays_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371068593014" ignored="false" />
+    <file path="/bdays_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371068590936" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/config/routes.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371068623607" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/views/bdays/home.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371070002781" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/stylesheets/custom.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069775707" ignored="false" />
+    <file path="/custom.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371680419599" ignored="false" />
+    <file path="/a.dummy" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371679898457" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/javascripts/lettering.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069836430" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/javascripts/application.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069912273" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/stylesheets/animate.css" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069871727" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/stylesheets/application.css" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069880156" ignored="false" />
+    <file path="/application.css" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069878899" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/javascripts/textillate.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069907258" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/assets/javascripts/custom.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069961550" ignored="false" />
+    <file path="/custom.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371069958440" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371070214650" ignored="false" />
+    <file path="/application.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371574348607" ignored="false" />
+    <file path="$PROJECT_DIR$/../bday/app/views/layouts/application.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371070591791" ignored="false" />
+    <file path="/Dummy.txt" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371656336613" ignored="false" />
+    <file path="/procedure.js.coffee" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371755508044" ignored="false" />
+    <file path="/procedures_helper.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371698469764" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/todos/home.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590355649" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/config/routes.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371603313937" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/controllers/todos_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371603252481" ignored="false" />
+    <file path="/todos_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371603250371" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/javascripts/knockout.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371434123126" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/javascripts/application.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371506345007" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/javascripts/viewmodel.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371655610137" ignored="false" />
+    <file path="/viewmodel.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371655533960" ignored="false" />
+    <file path="/todo.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371596641559" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/stylesheets/todo.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371596655782" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371513130166" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/layouts/application.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371574348607" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/stylesheets/foundation_and_overrides.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371506919047" ignored="false" />
+    <file path="/foundation_and_overrides.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371506892397" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/javascripts/todomvc.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371511441148" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/todos/todomvc.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371511460305" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/stylesheets/todomvc.css" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371511756164" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/config/database.yml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371513100434" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/db/schema.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371576740882" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/todos/index.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371656040379" ignored="false" />
+    <file path="/index.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371656039916" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/config/database.yml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590631514" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590643787" ignored="false" />
+    <file path="/products_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590820853" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/controllers/products_controller.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590822691" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/config/routes.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371590899375" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/views/products/index.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371592805484" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/assets/javascripts/knockout.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371592693573" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/assets/javascripts/application.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371592703090" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/assets/javascripts/products.js.coffee" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371593509457" ignored="false" />
+    <file path="/products.js.coffee" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371593129820" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout-rails/app/views/layouts/application.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371593241059" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/log/development.log" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371662062317" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/todos/example.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371614324134" ignored="false" />
+    <file path="/example.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371614323029" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/assets/javascripts/example.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371655648099" ignored="false" />
+    <file path="/example.js" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371614955731" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/config/heroku_env.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371658151045" ignored="false" />
+    <file path="/heroku_env.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371658150174" ignored="false" />
+    <file path="$USER_HOME$/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.13/lib/action_controller/base.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371660214712" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/Gemfile" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371677816261" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/config/database.yml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371663300164" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/views/flags/_form.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371675287619" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/views/fundraisers/_tabs.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371676779555" ignored="false" />
+    <file path="/_tabs.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371676509981" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/assets/stylesheets/fundraisers.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371676570639" ignored="false" />
+    <file path="/fundraisers.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371676543224" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/views/layouts/home.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371679590085" ignored="false" />
+    <file path="/home.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371679163105" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/views/layouts/_navigation.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371680459548" ignored="false" />
+    <file path="/_navigation.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371680458442" ignored="false" />
+    <file path="$PROJECT_DIR$/../gracefulgoodbye/app/assets/stylesheets/custom.css.scss" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371680431630" ignored="false" />
+    <file path="/debridement1.html.erb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371755566088" ignored="false" />
+    <file path="/schema.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371700655191" ignored="false" />
+    <file path="/20130612001819_create_procedures.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371700694890" ignored="false" />
+    <file path="$PROJECT_DIR$/../knockout/app/views/todos/test.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371751612433" ignored="false" />
+    <file path="/test.html.haml" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371751611807" ignored="false" />
+    <file path="/20130620172710_change_avg_submitted_charges_in_procedures_float.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371753512817" ignored="false" />
+    <file path="/20130620185357_change_avg_total_payments_to_float.rb" changelist="efadb2a5-53a2-44a3-99b5-0ced7b6a1b4d" time="1371754465627" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +111,13 @@
     <favorites_list name="medicare_open_data" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4105474">
+    <splitter split-orientation="horizontal" split-proportion="0.4985942">
       <split-first>
         <leaf>
-          <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="13" column="3" selection-start="220" selection-end="220" vertical-scroll-proportion="0.2613941">
+                <state line="12" column="10" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -47,42 +127,35 @@
             <entry file="file://$PROJECT_DIR$/config/database.yml">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="15" column="11" selection-start="422" selection-end="429" vertical-scroll-proportion="0.0">
+                  <folding>
+                    <marker date="1371067505000" expanded="true" signature="120:342" placeholder="development:" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="20130612001819_create_procedures.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/migrate/20130612001819_create_procedures.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="13" column="8" selection-start="412" selection-end="418" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.css.scss" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+          <file leaf-file-name="20130620172710_change_avg_submitted_charges_in_procedures_float.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/migrate/20130620172710_change_avg_submitted_charges_in_procedures_float.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="6" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+                <state line="8" column="21" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="schema.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/db/schema.rb">
+          <file leaf-file-name="seeds.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/seeds.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="procedures_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/procedures_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="18" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="69" selection-start="242" selection-end="242" vertical-scroll-proportion="-3.75">
+                <state line="25" column="16" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -91,19 +164,34 @@
           <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/routes.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
+                <state line="4" column="48" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="medicare.csv" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/lib/data/medicare.csv">
-              <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-                <state />
-              </provider>
+          <file leaf-file-name="debridement1.html.erb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/procedures/debridement1.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+                <state line="4" column="23" selection-start="163" selection-end="163" vertical-scroll-proportion="0.10830325">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="d3.v3.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/d3.v3.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="procedures_helper.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/helpers/procedures_helper.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="14" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -112,16 +200,7 @@
           <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/procedures/home.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="-0.625">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="199" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+                <state line="15" column="68" selection-start="548" selection-end="548" vertical-scroll-proportion="-9.375">
                   <folding />
                 </state>
               </provider>
@@ -131,10 +210,55 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="procedure.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="procedure.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/models/procedure.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="203" selection-start="240" selection-end="240" vertical-scroll-proportion="0.018939395">
+                <state line="0" column="121" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="procedure.js.coffee" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/assets/javascripts/procedure.js.coffee">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="45" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.css.scss" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="30" selection-start="272" selection-end="272" vertical-scroll-proportion="0.12052117">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="procedures_controller.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/controllers/procedures_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="112" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="schema.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/schema.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="6" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="20130620185357_change_avg_total_payments_to_float.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/db/migrate/20130620185357_change_avg_total_payments_to_float.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="2" column="58" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -152,24 +276,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/models/procedure.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/procedures_controller.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/procedures/home.html.erb" />
-        <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/app/models/procedure.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/procedures_helper.rb" />
+        <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/db/schema.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20130612001819_create_procedures.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20130620172710_change_avg_submitted_charges_in_procedures_float.rb" />
+        <option value="$PROJECT_DIR$/app/views/procedures/home.html.erb" />
+        <option value="$PROJECT_DIR$/db/migrate/20130620185357_change_avg_total_payments_to_float.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/procedures_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/procedures/debridement1.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/procedure.js.coffee" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/home.css.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1492" />
-    <option name="y" value="-42" />
-    <option name="width" value="1843" />
-    <option name="height" value="930" />
+    <option name="x" value="1533" />
+    <option name="y" value="-149" />
+    <option name="width" value="1412" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -286,6 +416,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -380,6 +528,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -423,6 +589,32 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="medicare_open_data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -432,9 +624,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gracefulgoodbye" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/javascripts" />
       <recent name="$PROJECT_DIR$/lib/data" />
     </key>
   </component>
@@ -628,16 +822,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1492" y="-42" width="1843" height="930" extended-state="0" />
+    <frame x="1533" y="-149" width="1412" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21912351" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24723756" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16638842" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21888727" sideWeight="0.7524205" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -712,96 +906,114 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="21" selection-start="806" selection-end="806" vertical-scroll-proportion="0.0">
+        <state line="4" column="48" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/medicare.csv">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/d3.v3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/procedure.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="203" selection-start="240" selection-end="240" vertical-scroll-proportion="0.018939395">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/procedures_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="69" selection-start="242" selection-end="242" vertical-scroll-proportion="-3.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/d3.v3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+        <state line="15" column="21" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/procedures_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="16" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130612001819_create_procedures.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="412" selection-end="418" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/procedures/home.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="-0.625">
+        <state line="15" column="68" selection-start="548" selection-end="548" vertical-scroll-proportion="-9.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130620185357_change_avg_total_payments_to_float.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="199" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+        <state line="2" column="58" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="422" selection-end="429" vertical-scroll-proportion="0.0">
+        <state line="25" column="6" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/db/migrate/20130620172710_change_avg_submitted_charges_in_procedures_float.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="220" selection-end="220" vertical-scroll-proportion="0.2613941">
+        <state line="8" column="21" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/procedure.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="121" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/procedures/debridement1.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="23" selection-start="163" selection-end="163" vertical-scroll-proportion="0.10830325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/procedure.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="45" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/procedures_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="112" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/home.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="272" selection-end="272" vertical-scroll-proportion="0.12052117">
           <folding />
         </state>
       </provider>

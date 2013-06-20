@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130612001819) do
+ActiveRecord::Schema.define(:version => 20130620185357) do
 
   create_table "procedures", :force => true do |t|
     t.string   "apc"
@@ -23,10 +23,10 @@ ActiveRecord::Schema.define(:version => 20130612001819) do
     t.string   "provider_zip"
     t.string   "hospital_region"
     t.string   "outpatient_services"
-    t.string   "avg_submitted_charges"
-    t.string   "avg_total_payments"
-    t.datetime "created_at",            :null => false
-    t.datetime "updated_at",            :null => false
+    t.float    "avg_submitted_charges", :limit => 255
+    t.float    "avg_total_payments",    :limit => 255
+    t.datetime "created_at",                           :null => false
+    t.datetime "updated_at",                           :null => false
   end
 
 end
